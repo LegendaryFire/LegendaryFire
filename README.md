@@ -4,7 +4,7 @@
 
   **Full-stack engineer on high-traffic platforms.**
   <br />
-  Linux drivers · self-hosted infrastructure · reverse-engineering
+  AI · Linux drivers · self-hosted infrastructure · reverse-engineering
 
   ![Vancouver, BC](https://img.shields.io/badge/based_in-Vancouver,_BC-8B5CF6?style=for-the-badge&labelColor=1F2328&logoColor=white&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTIgMS42YTggOCAwIDAgMC04IDhjMCA2IDggMTIuOCA4IDEyLjhzOC02LjggOC0xMi44YTggOCAwIDAgMC04LThabTAgMTFhMyAzIDAgMSAxIDAtNiAzIDMgMCAwIDEgMCA2WiIvPjwvc3ZnPg%3D%3D)
   [![@tradablebits](https://img.shields.io/badge/building_at-@tradablebits-8B5CF6?style=for-the-badge&labelColor=1F2328&logoColor=white&logo=github)](https://github.com/tradablebits)
@@ -39,6 +39,7 @@
   <sub><b>LANGUAGES</b></sub>
 
   [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+  [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
